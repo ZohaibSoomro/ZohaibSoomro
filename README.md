@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Hassan</h1>
-<h3 align="center">A passionate Flutter | Java developer from Pakistan</h3>
+<h3 align="center">Flutter | Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibsoomro&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibsoomro" /> </p>
 
