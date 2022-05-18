@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zohaibsoomro006" target="blank"><img src="https://img.shields.io/twitter/follow/zohaibsoomro006?logo=twitter&style=for-the-badge" alt="zohaibsoomro006" /></a> </p>
 
-- 🔭 I’m currently learning [Cloud Computing](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam?u=60693444)
+- 🔭 I’m currently learning [Golang programming.](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam?u=60693444)
 
-- 🌱 I’m currently learning **Flutter, Cloud Computing, AWS, Azure**
+- 🌱 I’m currently learning **Flutter, Golang, AWS, Azure**
 
 - 👯 I’m looking to collaborate on [Cloud Projects](https://www.linkedin.com/learning/search?keywords=cloud%20computing&u=60693444)
 
