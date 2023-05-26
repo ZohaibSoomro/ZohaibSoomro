@@ -40,4 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaibsoomro&show_icons=true&locale=en" alt="zohaibsoomro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibsoomro&" alt="zohaibsoomro" /></p>
-[![@zohaibsoomro's Holopin badges](https://www.holopin.io/@zohaibsoomro#badges)
+My Holopin badges: https://www.holopin.io/@zohaibsoomro#badges
