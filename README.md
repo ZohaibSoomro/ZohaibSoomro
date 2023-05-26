@@ -7,21 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/zohaibsoomro006" target="blank"><img src="https://img.shields.io/twitter/follow/zohaibsoomro006?logo=twitter&style=for-the-badge" alt="zohaibsoomro006" /></a> </p>
 
-- 🔭 I’m currently learning [Golang programming.](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam?u=60693444)
-
 - 🌱 I’m currently learning **Flutter, Golang, AWS, Azure**
 
 - 👯 I’m looking to collaborate on [Cloud Projects](https://www.linkedin.com/learning/search?keywords=cloud%20computing&u=60693444)
 
-- 🤝 I’m looking for help with [Azure Fundamentals](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=a4484f86990240f79b1ce206f28b19e9&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=a0a79490-fc69-46f8-9901-7cd9d9651d43#home)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ZohaibSoomro/Flutter-Portfolio](https://github.com/ZohaibSoomro/Flutter-Portfolio)
-
 - 💬 Ask me about **Flutter, Java**
 
 - 📫 How to reach me **zohaibsoomro006@gmail.com**
-
-- 📄 Know about my experiences [https://delightful-plant-0c885141e.1.azurestaticapps.net/](https://delightful-plant-0c885141e.1.azurestaticapps.net/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,4 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaibsoomro&show_icons=true&locale=en" alt="zohaibsoomro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibsoomro&" alt="zohaibsoomro" /></p>
-[![@zohaibsoomro's Holopin board](https://holopin.io/api/user/board?user=zohaibsoomro)](https://holopin.io/@zohaibsoomro)
+[![@zohaibsoomro's Holopin badges](https://www.holopin.io/@zohaibsoomro#badges)
