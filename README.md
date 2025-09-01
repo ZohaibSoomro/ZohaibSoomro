@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Zohaib Hassan and I'm a Flutter developer, from Pakistan.</h2>
+<h2 align="left">Hi 👋! My name is Zohaib Hassan and I'm a Senior EDI Developer, from Pakistan.</h2>
 
 ###
+<h6 align="left">Hello, I'm Zohaib Hassan — a passionate and results-oriented EDI Analyst and IBM Sterling B2B Integrator Developer with practical experience in EDI mapping, business process development, and delivering seamless integration solutions.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zohaibsoomro/count.svg?"  />
-</div>
+Currently, I’m involved in projects focused on developing business processes and creating EDI maps aimed at saving time and streamlining operations.
+
+I enjoy connecting with like-minded professionals and continuously expanding my knowledge in areas such as business automation, and EDI. Feel free to reach out.</h6>
 
 ###
 
@@ -16,9 +17,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCkxD0MbEETDLz6lS1dkGEZw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/itz_aibee/?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
