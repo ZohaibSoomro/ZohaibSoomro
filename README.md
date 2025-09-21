@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zohaib Hassan and I'm a Senior EDI Developer, from Pakistan.</h2>
+<h2 align="left">Hi! 👋 My name is Zohaib Hassan and I'm a Senior EDI Developer, from Pakistan.</h2>
 
 ###
 <h6 align="left">Hello, I'm Zohaib Hassan — a passionate and results-oriented EDI Analyst and IBM Sterling B2B Integrator Developer with practical experience in EDI mapping, business process development, and delivering seamless integration solutions.
