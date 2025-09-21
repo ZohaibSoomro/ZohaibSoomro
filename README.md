@@ -17,7 +17,7 @@ I enjoy connecting with like-minded professionals and continuously expanding my 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/itz_aibee/?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+  <a href="https://www.instagram.com/nameisaibee/?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="zohaibsoomro006@gmail.com" target="_blank">
